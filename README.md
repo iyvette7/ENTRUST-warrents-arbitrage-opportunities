@@ -1,4 +1,4 @@
-# Warrents-arbitrage-opportunities-analysis
+# Warrents-Arbitrage-Opportunities-Analysis
 
 * 研究背景為華南永昌於2020年初因權證避險不及，出現巨虧。
 * 主要原因為Open interest部位過大，且封關前不縮量，大量釋出價外(約20%-30%)具有套利機會的權證。
